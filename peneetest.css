@@ -3,7 +3,8 @@
 .body
 {
    background-color:#9672FB33;
-   
+   padding:0;
+   margin:0;
    width:100vw; 
    height:90vh;   
 margin-top:3em;
